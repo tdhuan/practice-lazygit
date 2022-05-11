@@ -25,6 +25,7 @@
 			Lesson 1.1:  MOVING THE CURSOR
 
 
+  Lesson12
    ** To move the cursor, press the h,j,k,l keys as indicated. **
 	     ^
 	     k		    Hint:  The h key is at the left and moves left.
